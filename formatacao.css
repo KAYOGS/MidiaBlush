@@ -1,0 +1,11 @@
+.pai{
+    display: grid;
+    grid-template-columns: 1000px;
+    background-color: blue;
+    justify-items: center;
+}
+
+.filha{
+    background-color: blueviolet;
+    width: 600px;
+}
